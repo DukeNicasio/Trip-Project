@@ -1,0 +1,13 @@
+.landing-page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.hero-section {
+  flex: 8;
+}
+
+.features-section {
+  flex: 2;
+}
